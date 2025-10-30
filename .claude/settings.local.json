@@ -1,0 +1,8 @@
+{
+  "enabledMcpjsonServers": [
+    "codex-mcp",
+    "claude-code-mcp",
+    "gemini-cli-mcp"
+  ],
+  "enableAllProjectMcpServers": true
+}
