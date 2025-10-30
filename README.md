@@ -27,8 +27,8 @@ Add to `~/.claude/settings.json`:
 {
   "mcpServers": {
     "gemini-cli": {
-      "command": "/absolute/path/to/gemini-cli-mcp-async/gemini_cli_mcp_async_server.py",
-      "args": [],
+      "command": "python3",
+      "args": ["/absolute/path/to/gemini-cli-mcp-async/gemini_cli_mcp_async_server.py"],
       "env": {}
     }
   }
