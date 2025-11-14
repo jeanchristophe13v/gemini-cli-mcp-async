@@ -1,0 +1,2 @@
+[console_scripts]
+gemini-cli-mcp-async = gemini_cli_mcp:main

@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Gemini CLI MCP Server Wrapper with Async Support
 将 Gemini CLI 封装为符合 MCP 协议的 server，支持异步任务
@@ -15,6 +14,8 @@ import traceback
 import shlex
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Sequence, Union
+
+__all__ = ["main"]
 
 # 配置日志系统
 logging.basicConfig(

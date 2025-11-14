@@ -1,9 +1,9 @@
 {
   "mcpServers": {
-    "gemini-cli": {
-      "command": "python3",
+    "gemini-cli-mcp": {
+      "command": "uvx",
       "args": [
-        "/Users/a1-6/gemini-cli-mcp/gemini_cli_mcp_async_server.py"
+        "gemini-cli-mcp-async"
       ],
       "description": "Gemini CLI MCP Server - Execute Gemini CLI tasks asynchronously"
     }

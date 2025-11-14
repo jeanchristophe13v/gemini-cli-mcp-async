@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+gemini_cli_mcp/__init__.py
+gemini_cli_mcp/server.py
+gemini_cli_mcp_async.egg-info/PKG-INFO
+gemini_cli_mcp_async.egg-info/SOURCES.txt
+gemini_cli_mcp_async.egg-info/dependency_links.txt
+gemini_cli_mcp_async.egg-info/entry_points.txt
+gemini_cli_mcp_async.egg-info/requires.txt
+gemini_cli_mcp_async.egg-info/top_level.txt
